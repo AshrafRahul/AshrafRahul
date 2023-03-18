@@ -1,26 +1,30 @@
-### Hi there 👋, This is Md. Ashraful Islam
-#### Student of Software Engineering
-Currently I am studying at Daffodil International University in Software Engineering Department.
+<h1 align="center">Hi 👋, This is Md. Ashraful Islam</h1>
+<h3 align="center">Student of Software Engineering</h3>
 
-Skills: C || C++ || Java
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafrahul&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafrahul" /> </p>
 
-- 🌱 I’m currently learning Java 
-- 🤔 I’m looking for help with Programming 
-- 💬 Ask me about Programming 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafrahul" alt="ashrafrahul" /></a> </p>
 
+- 🌱 I’m currently learning **Java**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AshrafRahul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-ashraful-islam-520b9b239/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.ashrafulislam.902819)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Ashraf_Rahul)  
+- 🤝 I’m looking for help with **Programming**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshrafRahul)](https://github.com/ryo-ma/github-profile-trophy)
+- 💬 Ask me about **Programming**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafRahul)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 How to reach me **islam35-916@diu.edu.bd**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshrafRahul&show_icons=true&count_private=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ashraf_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashraf_rahul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-ashraful-islam-520b9b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ashraful-islam-520b9b239" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.ashrafulislam.902819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.ashrafulislam.902819" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AshrafRahul)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/AshrafRahul)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafrahul&show_icons=true&locale=en&layout=compact" alt="ashrafrahul" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AshrafRahul)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafrahul&show_icons=true&locale=en" alt="ashrafrahul" /></p>
 
-![Profile views](https://gpvc.arturio.dev/AshrafRahul)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafrahul&" alt="ashrafrahul" /></p>
