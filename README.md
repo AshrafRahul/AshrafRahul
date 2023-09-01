@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, This is Md. Ashraful Islam</h1>
 <h3 align="center">Student of Software Engineering</h3>
 
-
-
-- 🌱 I’m currently learning **Programming**
-
-- 🤝 I’m looking for help with **Programming**
-
-- 💬 Ask me about **Programming**
-
-- 📫 How to reach me **islam35-916@diu.edu.bd**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-ashraful-islam-520b9b239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-ashraful-islam-520b9b239" height="30" width="40" /></a>
