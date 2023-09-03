@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Md. Ashraful Islam</h1>
+<h1 align="center">This is Md. Ashraful Islam</h1>
 <h3 align="center">Student of Software Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
